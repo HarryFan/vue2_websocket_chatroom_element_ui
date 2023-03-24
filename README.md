@@ -1,0 +1,2 @@
+# vue2_websocket_chatroom_element_ui
+教學用Vue2實現Websocket聊天室應用，樣式以Element UI為主
